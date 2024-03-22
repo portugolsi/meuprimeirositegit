@@ -1,0 +1,9 @@
+# Apenas 1 vez
+git config --global user.name -> Adiciona o nome de Usuário do GitHub
+git config --global user.email -> Adiciona o Email de usuário do GitHub
+git init -> inicializa um repositórtio local
+-------------------------------------------------------
+git status -> Verifica o estado que o respositório local se encontra
+git pull -> atualiza o repositórtio local e deixa igual ao repositório remoto
+git add . -> adiciona no respositório local todos os arquivos que estão na pasta 
+git commit -m "Alguma coisa" -> Comento 
