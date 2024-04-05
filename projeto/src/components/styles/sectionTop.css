@@ -1,0 +1,13 @@
+.sectionTop{
+
+    display: flex;
+    justify-content: center; /* justificando todo o conteúdo filho ao centro */
+    align-items: center; /* alinhando todos os conteúdos filhos ao centro */
+    height: 500px; /* Definindo a altura da div */
+}
+
+.titulo{
+    color: rgb(22, 22, 22);
+    font-size: 90px;
+    font-weight: 900; /* quão larga a fonte é */
+}
