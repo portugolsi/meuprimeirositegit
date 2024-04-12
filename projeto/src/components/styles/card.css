@@ -1,3 +1,26 @@
-h1{
-    color: white;
+.card{
+    border-radius: 20px;
+    background-color: #5d5d5d;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
 }
+
+
+#foto{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+   
+}
+#status{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.atributos{
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+
