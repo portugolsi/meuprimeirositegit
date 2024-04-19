@@ -4,14 +4,44 @@
     margin: 30px;
     display: flex;
     flex-direction: row;
+    width: 520px;
 }
-
 
 #foto{
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
    
 }
+
+.atributos{
+    justify-content: left;
+}
+
+#nome-personagem{
+    color: white;
+    font-size: 30px;
+}
+
+#ultimo-local{
+    font-weight: 600;
+    color: #969696;
+}
+
+#local{
+    color: white;
+    text-decoration: none;
+}
+
+#local:hover{
+    color: orange;
+}
+
+#primeiro-local{
+    font-weight: 600;
+    color: #969696;
+}
+
+
 #status{
     display: flex;
     flex-direction: row;
